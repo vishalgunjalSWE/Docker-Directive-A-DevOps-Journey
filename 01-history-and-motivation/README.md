@@ -71,3 +71,4 @@ This approach results in containers being more "lightweight" than virtual machin
 ![](./readme-assets/tradeoffs.jpg)
 
 ***Note:*** There is much more nuance to “performance” than this chart can capture. A VM or container doesn’t inherently sacrifice much performance relative to the bare metal it runs on, but being able to have more control over things like connected storage, physical proximity of the system relative to others it communicates with, specific hardware accelerators, etc… do enable performance tuning
+
